@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-18T00:07:32 IST" name="Suite" finished-at="2024-08-18T00:07:40 IST" duration-ms="7641">
+    <groups>
+    </groups>
+    <test started-at="2024-08-18T00:07:32 IST" name="Test" finished-at="2024-08-18T00:07:40 IST" duration-ms="7641">
+      <class name="prematest.testcase.TestCase">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:prematest.testcase.TestCase@2c07545f]" started-at="2024-08-18T00:07:32 IST" name="launchApplication" finished-at="2024-08-18T00:07:38 IST" duration-ms="5492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="loginandLogout()[pri:0, instance:prematest.testcase.TestCase@2c07545f]" started-at="2024-08-18T00:07:38 IST" name="loginandLogout" finished-at="2024-08-18T00:07:40 IST" duration-ms="1960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginandLogout -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:prematest.testcase.TestCase@2c07545f]" started-at="2024-08-18T00:07:40 IST" name="closeApplication" finished-at="2024-08-18T00:07:40 IST" duration-ms="151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- prematest.testcase.TestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
